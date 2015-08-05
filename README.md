@@ -8,9 +8,20 @@ Set your email and username:
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
-
 ### Get the code
 Fork this repo, then clone your fork locally
+
+### How to update a fork from the original repo
+##### Configuring a remote for a fork
+To sync changes you make in a fork with the original repository, you must configure a remote that points to the upstream repository in Git.
+Learn more: https://help.github.com/articles/configuring-a-remote-for-a-fork/
+
+##### Syncing a fork
+First configuring a remote for a fork with the upstream repository - as explained above
+Sync a fork of a repository to keep it up-to-date with the upstream repository.
+Learn more: https://help.github.com/articles/syncing-a-fork/
+
+Note the tip: Syncing your fork only updates your local copy of the repository. To update your fork on GitHub, you must push your changes.
 
 ## Practice ~45 min
 
