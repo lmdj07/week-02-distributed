@@ -6,7 +6,7 @@ class TestArrays < MiniTest::Unit::TestCase
     array = Array.new()
     assert_equal(0, array.size)
     assert(array.empty?)
-    #change to push 
+    #change to push 1931
   end
 
   def test_an_array_with_1_element
