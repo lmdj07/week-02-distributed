@@ -23,7 +23,7 @@ What would you like to work on?
 * Arrays and hashes (looping with blocks)
 * Blocks - creating your own <- advanced, we can cover them next week
 
-## Reading and Writting to Files - ~45 min
+## Reading and Writing to Files - ~45 min
 * Reading
 * Writing
 * Practice
