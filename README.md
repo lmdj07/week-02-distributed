@@ -10,7 +10,7 @@ git config --global user.email johndoe@example.com
 ```
 
 ### Get the code
-Fork this repo, then clone your fork ocally
+Fork this repo, then clone your fork locally
 
 ## Practice - ~45 min
 
