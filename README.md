@@ -12,7 +12,7 @@ git config --global user.email johndoe@example.com
 ### Get the code
 Fork this repo, then clone your fork locally
 
-## Practice - ~45 min
+## Practice ~45 min
 
 What would you like to work on?
 * Variables - strings, numbers, etc
@@ -23,7 +23,7 @@ What would you like to work on?
 * Arrays and hashes (looping with blocks)
 * Blocks - creating your own <- advanced, we can cover them next week
 
-## Reading and Writing to Files - ~45 min
+## Reading and Writing to Files ~45 min
 * Reading
 * Writing
 
@@ -33,7 +33,7 @@ Create an audit log for the Bank class
 * Name the file: audit_log.csv
 * each row should contain a time stamp, the two account numbers and the value that was transferred
 
-## Refactoring Demo - ~45 min
+## Refactoring Demo ~45 min
 
 Code refactoring is the process of restructuring existing computer code – changing the factoring – without changing its external behavior. Refactoring improves nonfunctional attributes of the software. Advantages include improved code readability and reduced complexity; these can improve source code maintainability and create a more expressive internal architecture or object model to improve extensibility. Typically, refactoring applies a series of standardised basic micro-refactorings, each of which is (usually) a tiny change in a computer program's source code that either preserves the behaviour of the software, or at least does not modify its conformance to functional requirements.
 
@@ -51,7 +51,7 @@ Ref: http://dictionary.reference.com/browse/factoring
 
 In software development, we break up a large problem into smaller ones - this can be called factoring (although it is not a commonly used term). After breaking up the problem and implimenting the solution, we might see ways of improving the solution without changing the functionality - and this is called re-factoring. 
 
-## Practice continued - ~45 min
+## Practice continued ~45 min
 
 
 
