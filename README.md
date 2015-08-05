@@ -26,7 +26,12 @@ What would you like to work on?
 ## Reading and Writing to Files - ~45 min
 * Reading
 * Writing
-* Practice
+
+### Exercises
+Create an audit log for the Bank class
+* Each time a transfer happens, write the details to a comma seperated file (csv). 
+* Name the file: audit_log.csv
+* each row should contain a time stamp, the two account numbers and the value that was transferred
 
 ## Refactoring Demo - ~45 min
 
@@ -44,7 +49,7 @@ factoring - the act or process of separating an equation, formula, cryptogram, e
 
 Ref: http://dictionary.reference.com/browse/factoring
 
-In software development, we break up a large problem into smaller ones - this can be called factoring (although it is not a commonly used term). After breaking up the problem and implimenting the solution, we might see ways of improving the solution without changing the functionality. The act of improving the internal design is known as re-factoring. 
+In software development, we break up a large problem into smaller ones - this can be called factoring (although it is not a commonly used term). After breaking up the problem and implimenting the solution, we might see ways of improving the solution without changing the functionality - and this is called re-factoring. 
 
 ## Practice continued - ~45 min
 
